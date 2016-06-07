@@ -103,6 +103,7 @@ public partial class SIGNUP1 : System.Web.UI.Page
     }
     
     
+    //Send Mail
     public static void sendMsg(string email,string fullname,string username,string pass,string random)
     {
 
